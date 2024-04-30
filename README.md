@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-Hi, I'm **Maksim Kalutski**. A software developer and CS student at BUT FIT based in Brno, Czech Republic.
+Hi, I'm **Maksim Kalutski**. A software developer and Computer Science student at Brno University of Technology, and I'm all about making awesome
+software that people love to use. I can build both the front-end stuff you see and the powerful back-end that makes it
+all work. I'm always learning new languages and tools because I just can't get enough of this tech stuff.
+
+When I'm not coding, you can find me working on cool side projects, hitting the gym, or exploring new places. I love
+spending time with friends and family, meeting new people, and just soaking in the world around me.
 
 ## My skills
 
