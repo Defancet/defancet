@@ -7,6 +7,8 @@ all work. I'm always learning new languages and tools because I just can't get e
 When I'm not coding, you can find me working on cool side projects, hitting the gym, or exploring new places. I love
 spending time with friends and family, meeting new people, and just soaking in the world around me.
 
+You can learn more about me on my [website](https://defancet.github.io/defancet-portfolio/).
+
 ## My skills
 
 <p align="center">
