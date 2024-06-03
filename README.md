@@ -1,11 +1,13 @@
 ## Hi there 👋
 
-Hi, I'm **Maksim Kalutski**. A software developer and Computer Science student at Brno University of Technology, and I'm all about making awesome
-software that people love to use. I can build both the front-end stuff you see and the powerful back-end that makes it
-all work. I'm always learning new languages and tools because I just can't get enough of this tech stuff.
+Hi, I'm **Maksim Kalutski**, a Front-End Developer and Computer Science student at Brno University of Technology.
+I'm all about making visually stunning and user-friendly web interfaces that people love to interact with. I specialize
+in front-end development, bringing designs to life with modern technologies and best practices. Additionally, I'm
+capable of building the powerful back-end systems that make everything run smoothly. I'm constantly learning new
+frameworks and tools to stay ahead in the ever-evolving tech landscape.
 
 When I'm not coding, you can find me working on cool side projects, hitting the gym, or exploring new places. I love
-spending time with friends and family, meeting new people, and just soaking in the world around me.
+spending time with friends and family, meeting new people, and love experiencing the world around me.
 
 You can learn more about me on my [website](https://defancet.github.io/defancet-portfolio/).
 
