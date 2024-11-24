@@ -1,12 +1,6 @@
 ## Hi there 👋
 
 Hi, I'm **Maksim Kalutski**, a Frontend Developer and Computer Science student at Brno University of Technology.
-I'm all about making visually stunning and user-friendly web interfaces that people love to interact with. I specialize
-in front-end development, bringing designs to life with modern technologies and best practices. I'm constantly learning 
-new frameworks and tools to stay ahead in the ever-evolving tech landscape.
-
-When I'm not coding, you can find me working on cool side projects, hitting the gym, or exploring new places. I love
-spending time with friends and family, meeting new people, and love experiencing the world around me.
 
 ## My skills
 
